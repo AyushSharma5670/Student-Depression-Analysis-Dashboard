@@ -1,1 +1,44 @@
 # Student-Depression-Analysis-Dashboard
+Student Depression Analysis Dashboard
+___________________________________________________________________________________________________________________________________________________________________
+Overview
+___________________________________________________________________________________________________________________________________________________________________
+This Power BI project explores a student depression dataset to identify patterns and factors associated with mental health outcomes. The dashboard provides interactive visualizations to help understand relationships between academic pressure, study habits, sleep patterns, and depression levels.
+
+Objectives
+___________________________________________________________________________________________________________________________________________________________________
+* Analyze the distribution of depression among students.
+* Investigate the impact of academic pressure and study satisfaction.
+* Examine the relationship between sleep duration and depression.
+* Provide actionable insights through interactive dashboards.
+
+Tools & Technologies
+___________________________________________________________________________________________________________________________________________________________________
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV Dataset
+
+Dashboard Features
+___________________________________________________________________________________________________________________________________________________________________
+* KPI cards for key metrics
+* Depression distribution analysis
+* Academic pressure analysis
+* Sleep duration insights
+* Interactive filters and slicers
+
+Key Insights
+___________________________________________________________________________________________________________________________________________________________________
+* Students with higher academic pressure showed higher rates of depression.
+* Sleep duration appeared to have a noticeable relationship with mental health outcomes.
+* Interactive filtering enables analysis across different student groups.
+
+Dataset
+___________________________________________________________________________________________________________________________________________________________________
+This project uses a demo student depression dataset for educational and portfolio purposes.
+
+Repository Contents
+___________________________________________________________________________________________________________________________________________________________________
+* Dataset files
+* Dashboard screenshots
+* README.md
